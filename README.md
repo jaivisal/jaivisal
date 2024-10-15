@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VISHAL V</h1>
+<h1 align="center">Hi 👋, I'm JaiV</h1>
 <h3 align="center"><i>A passionate frontend developer from india</i></h3>
 
 <img class="gif" src="gitreadme.gif" alt="gitreadme" align="center" height="500px" width="1200px">
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C,C++,PYTHON,SQL,POSTGRES,HTML,CSS**
 
-- 📫 How to reach me **21pt36@psgtech.ac.in**
+- 📫 How to reach me **22pw21@psgtech.ac.in**
 
 - ⚡ Fun fact **I think I am Funny**
 
