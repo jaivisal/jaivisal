@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JaiV</h1>
-<h3 align="center"><i>A passionate frontend developer</i></h3>
+<h3 align="center"><i>A passionate Fullstack developer</i></h3>
 
 <img class="gif" src="gitreadme.gif" alt="gitreadme" align="center" height="500px" width="1200px">
 
